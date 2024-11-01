@@ -1,6 +1,6 @@
 # Release Notes
 
-## [1.0.0] - 2024-11-01
+## [0.0.1] - 01-11-2024
 ### Features
 - User authentication implemented (login/signup).
 - Content upload functionality added.
