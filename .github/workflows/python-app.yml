@@ -11,19 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-name: Python Application
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
@@ -66,4 +53,5 @@ jobs:
     - name: Deploy
       run: |
         echo "Deploying application..."
+
 
