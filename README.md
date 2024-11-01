@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions, feedback, or suggestions, please contact us at [truecare@veritasya.in](mailto:sonnetspprt@gmail.com). 
-founder and CEO of The Veritasya [codersonet.github](https://github.com/codersonet/).
+Founder and CEO of The Veritasya [codersonet.github](https://github.com/codersonet/).
