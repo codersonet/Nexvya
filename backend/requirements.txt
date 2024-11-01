@@ -1,6 +1,6 @@
 Flask==2.3.2                    # A micro web framework for Python
 Flask-Cors==3.0.10              # CORS support for Flask
-Flask-SQLAlchemy==2.5.2         # SQLAlchemy integration for Flask
+Flask-SQLAlchemy==2.5.1         # SQLAlchemy integration for Flask
 mysql-connector-python==8.0.34   # MySQL database connector
 requests==2.31.0                # HTTP library for making requests
 Flask-Login==0.6.2              # User session management for Flask
