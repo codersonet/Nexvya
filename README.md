@@ -1,7 +1,6 @@
+```markdown
 # Veritasya
 Infinite True verses, learn till you get enlightened
-
-```markdown
 
 ![Veritasya Logo](https://example.com/logo.png)
 
