@@ -12,7 +12,8 @@ The system follows a microservices architecture, where each service is responsib
 ## 2. Component Diagram
 
 |    User Interface    |
-|User Interface (React)|
+|User Interface
+(React)                |
 |----------------------|
 | - Navigation Bar     |
 | - User Profile Page  |
