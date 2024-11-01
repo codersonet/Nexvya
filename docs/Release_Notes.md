@@ -8,4 +8,4 @@
 ### Fixes
 - Resolved bugs related to user sessions.
 - Improved responsiveness of the UI.
-
+- Solved backend issues related to files merging.
