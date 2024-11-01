@@ -3,14 +3,13 @@ name: Python Application
 on:
   push:
     branches:
-      - main  # Change this to your main branch if it's different
+      - main
   pull_request:
     branches:
       - main
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -20,11 +19,10 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.13'  # Specify the latest Python version
-        
-    - name: Set FLASK_APP
-      run: |
-        export FLASK_APP=backend/app/app.py
+        python-version: '3.13'  # Use the latest Python version
+
+    - name: Set FLASK_APP Environment Variable
+      run: echo "FLASK_APP=backend/app/app.py" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
@@ -32,29 +30,24 @@ jobs:
         pip install -r backend/requirements.txt  # Path to your requirements.txt file
 
     - name: Run database migrations
+      env:
+        FLASK_APP: backend/app/app.py  # Re-confirm FLASK_APP here for Flask commands
       run: |
-        # Here you can add commands to run migrations if you're using a database
-        # For example, if you're using Flask-Migrate
-        flask db upgrade  # Ensure you have the necessary environment variables set
+        flask db upgrade  # Run database migrations
 
     - name: Run tests
       run: |
-        pytest test/  # Run your tests
-        # Optionally, you can specify a specific test file like:
-        # pytest test/test_example.py
+        pytest backend/test/  # Adjust path to your test folder
 
     - name: Lint code
       run: |
-        pip install flake8  # Install flake8 for linting
-        flake8 . --ignore E501,W503  # Ignore specific error codes, e.g., line length (E501) and line break before binary operator (W503)
+        pip install flake8
+        flake8 . --ignore E501,W503
 
     - name: Build Docker image
       run: |
-        docker build . -t your_docker_image_name:latest  # Adjust your Docker image name
+        docker build . -t your_docker_image_name:latest
 
     - name: Deploy
       run: |
-        # Add your deployment commands here
-        # This could involve pushing your Docker image to a registry, deploying to a cloud service, etc.
-        echo "Deploying application..."  # Replace this with actual deployment command
-
+        echo "Deploying application..."  # Replace with actual deployment commands
