@@ -23,7 +23,7 @@ Veritasya is an innovative educational platform designed to connect learners wit
 - **Gamification**: Users can engage with the platform through challenges and earn rewards.
 - **User Profiles**: Customizable profiles where users can manage their interests and saved content.
 - **Content Submission and Review**: Users can submit informative content, which undergoes AI-powered checks before publishing.
-- **Multi-platform Login**: Easy sign-in options through platforms like Google, Apple, and Twitter.
+- **Multi-platform Login**: Easy sign-in options through platforms like Google, Apple, Meta and X.
 
 ## Technologies Used
 
