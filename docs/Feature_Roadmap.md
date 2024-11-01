@@ -14,6 +14,11 @@
   - Implement AI-driven content recommendations based on user behavior.
   - Enhance user profile customization options.
 
+- **Q4 2025:** 
+  - Implement continuous AI-driven content checker.
+  - Enhance user security via 2FA and passkey verification.
+
+
 ## Future Vision
 Our vision is to create a robust platform that continually evolves to meet the needs of our users. We are committed to incorporating user feedback and staying at the forefront of technology advancements.
 
