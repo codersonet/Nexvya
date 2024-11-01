@@ -33,6 +33,8 @@ jobs:
 
     - name: Run database migrations
       working-directory: ./backend
+      env:
+        FLASK_APP: app.app  # Setting FLASK_APP explicitly in the backend directory
       run: |
         flask db upgrade
 
@@ -53,5 +55,3 @@ jobs:
     - name: Deploy
       run: |
         echo "Deploying application..."
-
-
