@@ -19,25 +19,28 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.13'  # Use the latest Python version
+        python-version: '3.13'
 
     - name: Set FLASK_APP Environment Variable
-      run: echo "FLASK_APP=backend/app/app.py" >> $GITHUB_ENV
+      run: |
+        echo "FLASK_APP=backend.app.app" >> $GITHUB_ENV
+        echo "PYTHONPATH=$PYTHONPATH:./backend" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r backend/requirements.txt  # Path to your requirements.txt file
+        pip install -r backend/requirements.txt
 
     - name: Run database migrations
       env:
-        FLASK_APP: backend/app/app.py  # Re-confirm FLASK_APP here for Flask commands
+        FLASK_APP: backend.app.app
+        PYTHONPATH: ./backend
       run: |
-        flask db upgrade  # Run database migrations
+        flask db upgrade
 
     - name: Run tests
       run: |
-        pytest backend/test/  # Adjust path to your test folder
+        pytest backend/test/
 
     - name: Lint code
       run: |
@@ -50,4 +53,5 @@ jobs:
 
     - name: Deploy
       run: |
-        echo "Deploying application..."  # Replace with actual deployment commands
+        echo "Deploying application..."
+
