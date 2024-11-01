@@ -10,7 +10,6 @@ The system follows a microservices architecture, where each service is responsib
 - **Database:** Utilizes MySQL for data storage and retrieval.
 
 ## 2. Component Diagram
-+----------------------+
 |    User Interface    |
 |       (React)        |
 |----------------------|
@@ -19,7 +18,6 @@ The system follows a microservices architecture, where each service is responsib
 | - Content Submission |
 | - Feedback Section   |
 | - Community Forum    |
-+----------+-----------+
            |
            |   API Requests
            |
