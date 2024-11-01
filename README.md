@@ -18,29 +18,29 @@ Veritasya is an innovative educational platform designed to connect learners wit
 
 ## Features
 
-- Personalized Learning: Users can discover content based on their interests, such as Machine Learning, Web Development, etc.
-- Intelligent AI Bot: An AI assistant to provide in-depth information and answer user queries.
-- Gamification: Users can engage with the platform through challenges and earn rewards.
-- User Profiles: Customizable profiles where users can manage their interests and saved content.
-- Content Submission and Review: Users can submit informative content, which undergoes AI-powered checks before publishing.
-- Multi-platform Login: Easy sign-in options through platforms like Google, Apple, and Twitter.
+- **Personalized Learning**: Users can discover content based on their interests, such as Machine Learning, Web Development, etc.
+- **Intelligent AI Bot**: An AI assistant to provide in-depth information and answer user queries.
+- **Gamification**: Users can engage with the platform through challenges and earn rewards.
+- **User Profiles**: Customizable profiles where users can manage their interests and saved content.
+- **Content Submission and Review**: Users can submit informative content, which undergoes AI-powered checks before publishing.
+- **Multi-platform Login**: Easy sign-in options through platforms like Google, Apple, and Twitter.
 
 ## Technologies Used
 
-- Frontend: React.js, CSS3, HTML5
-- Backend: Python (Flask), MySQL
-- AI & Machine Learning: TensorFlow, Scikit-learn
-- Deployment: Docker, AWS
+- **Frontend**: React.js, Redux, CSS3, HTML5
+- **Backend**: Python (Flask), MySQL
+- **AI & Machine Learning**: TensorFlow, Scikit-learn
+- **Deployment**: Docker, AWS
 
 ## Getting Started
 
 To get started with Veritasya locally, follow these instructions:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/veritasya.git
    cd veritasya
-   ```
+
 
 2. **Install dependencies**:
    - For the frontend:
