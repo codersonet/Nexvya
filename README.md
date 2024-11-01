@@ -1,2 +1,2 @@
 # Veritasya
-Infinite knowledge, learn till you get enlightened
+Infinite True verses, learn till you get enlightened
