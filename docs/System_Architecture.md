@@ -11,15 +11,16 @@ The system follows a microservices architecture, where each service is responsib
 
 ## 2. Component Diagram
 
++----------------------+
 |    User Interface    |
-|User Interface
-(React)                |
+|       (React)        |
 |----------------------|
 | - Navigation Bar     |
 | - User Profile Page  |
 | - Content Submission |
 | - Feedback Section   |
 | - Community Forum    |
++----------+-----------+
            |
            |   API Requests
            |
@@ -35,19 +36,24 @@ The system follows a microservices architecture, where each service is responsib
            |
            |   Database Queries
            |
++----------v-----------+
 |     MySQL Database   |
 |----------------------|
 | - Users Table        |
 | - Content Table      |
 | - Feedback Table     |
 | - Forum Posts Table  |
++----------+-----------+
            |
            |   External Calls
            |
-|   External Services   |
-|-----------------------|
-| - Authentication      |
-| - Email Notifications |
++----------v-----------+
+|  External Services   |
+|----------------------|
+| - Authentication     |
+| - Email Notifications|
++----------------------+
+
 
 ## 3. Data Flow
 The data flow between the components is as follows:
