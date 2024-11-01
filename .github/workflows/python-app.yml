@@ -37,7 +37,7 @@ jobs:
       run: |
         pytest test/  # Run your tests
         # Optionally, you can specify a specific test file like:
-        # pytest test/test_basic.py
+        # pytest test/test_example.py
 
     - name: Lint code
       run: |
