@@ -8,4 +8,10 @@ If you need assistance, please reach out to our support team.
 
 ## Support Hours
 - Monday to Friday: 9 AM - 5 PM (GMT+5:30))
+- Saturday and Sunday: Closed
 
+## Reporting Issues
+To report technical issues, please provide the following information:
+- Description of the issue
+- Steps to reproduce the issue
+- Screenshots (if applicable)
