@@ -34,23 +34,19 @@ The system follows a microservices architecture, where each service is responsib
            |
            |   Database Queries
            |
-+----------v-----------+
 |     MySQL Database   |
 |----------------------|
 | - Users Table        |
 | - Content Table      |
 | - Feedback Table     |
 | - Forum Posts Table  |
-+----------+-----------+
            |
            |   External Calls
            |
-+----------v------------+
 |   External Services   |
 |-----------------------|
 | - Authentication      |
 | - Email Notifications |
-+-----------------------+
 
 ## 3. Data Flow
 The data flow between the components is as follows:
