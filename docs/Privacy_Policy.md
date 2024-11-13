@@ -24,5 +24,5 @@ We implement reasonable security measures to protect your personal information f
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## 6. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [truecare@vseritasya.in](mailto:sonetspprt@gmail.com).
+If you have any questions about this Privacy Policy, please contact us at [truecare@nexvya.in](mailto:sonetspprt@gmail.com).
 
