@@ -20,7 +20,7 @@ POST /auth/login
 Content-Type: application/json
 
 {
-  "email": "user@nexvya.in",
+  "email": "user@example.com",
   "password": "your_password"
 }
 ```
