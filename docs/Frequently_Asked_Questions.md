@@ -13,5 +13,5 @@ You can report inappropriate content by clicking the 'Report' button next to the
 Yes, you can update your username or email address in the 'Account Settings' section of your profile.
 
 ## 5. What should I do if I encounter a technical issue?
-If you experience any technical issues, please reach out to our support team at support@yourplatform.com.
+If you experience any technical issues, please reach out to our support team at truecare@nexvya.in.
 
