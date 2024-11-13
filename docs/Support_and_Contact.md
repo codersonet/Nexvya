@@ -3,7 +3,7 @@
 If you need assistance, please reach out to our support team.
 
 ## Contact Methods
-- Email: [truecare@veritasya.in](mailto:sonetspprt@gmail.com)
+- Email: [truecare@nexvya.in](mailto:sonetspprt@gmail.com)
 - Support Form: [Link to Contact Form](https://docs.google.com/)
 
 ## Support Hours
