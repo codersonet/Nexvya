@@ -179,5 +179,5 @@ The API returns standardized error responses to handle common issues.
 The API enforces rate limits to ensure fair usage. The limit is set to **100 requests per hour** per user.
 
 ## Support
-For any questions or issues, please contact support at [**truecare@veritasya.in**](mailto:sonetspprt@gmail.com).
+For any questions or issues, please contact support at [**truecare@nexvya.in**](mailto:sonetspprt@gmail.com).
 
