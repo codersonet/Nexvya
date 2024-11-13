@@ -107,7 +107,7 @@ For detailed information about the API endpoints, please refer to [API Documenta
 
 ## Contributing
 
-We welcome contributions to Veritasya! If you would like to contribute, please follow these steps:
+We welcome contributions to Nexvya! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeature`).
@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - For any questions, feedback, or suggestions, please contact us at [truecare@nexvya.in](mailto:sonnetspprt@gmail.com). 
-- Founder and CEO of The Veritasya [codersonet.github](https://github.com/codersonet/).
+- Founder of The Nexvya [codersonet.github](https://github.com/codersonet/).
