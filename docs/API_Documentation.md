@@ -1,9 +1,9 @@
 ## Introduction
-This document provides an overview of the API endpoints available for the MyEdu App. The API allows users to interact with the application to manage their interests, submit content, and access educational resources.
+This document provides an overview of the API endpoints available for the Nexvya App. The API allows users to interact with the application to manage their interests, submit content, and access educational resources.
 
 ## Base URL
 ```
-https://api.veritasya.in/v1
+https://api.nexvya.in/v1
 ```
 
 ## Authentication
@@ -20,7 +20,7 @@ POST /auth/login
 Content-Type: application/json
 
 {
-  "email": "user@example.com",
+  "email": "user@nexvya.in",
   "password": "your_password"
 }
 ```
