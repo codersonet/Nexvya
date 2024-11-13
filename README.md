@@ -1,9 +1,9 @@
-# Veritasya
+# Nexvya
 Infinite True verses, learn till you get enlightened
 
-![Veritasya Logo](https://example.com/logo.png)
+![Nexvya Logo](https://example.com/logo.png)
 
-Veritasya is an innovative educational platform designed to connect learners with valuable resources tailored to their interests. By utilizing advanced AI algorithms, we provide personalized content recommendations that empower users to enhance their knowledge and skills in various fields.
+Nexvya is an innovative educational platform designed to connect learners with valuable resources tailored to their interests. By utilizing advanced AI algorithms, we provide personalized content recommendations that empower users to enhance their knowledge and skills in various fields.
 
 ## Table of Contents
 
@@ -34,12 +34,12 @@ Veritasya is an innovative educational platform designed to connect learners wit
 
 ## Getting Started
 
-To get started with Veritasya locally, follow these instructions:
+To get started with Nexvya locally, follow these instructions:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/veritasya.git
-   cd veritasya
+   git clone https://github.com/yourusername/nexvya.git
+   cd nexvya
 
 
 2. **Install dependencies**:
@@ -74,7 +74,7 @@ To get started with Veritasya locally, follow these instructions:
 ## Folder Structure (brief)
 
 ```
-veritasya/
+nexvya/
 │
 ├── frontend/                   # Frontend application
 │   ├── src/                   # Source code
@@ -121,5 +121,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- For any questions, feedback, or suggestions, please contact us at [truecare@veritasya.in](mailto:sonnetspprt@gmail.com). 
+- For any questions, feedback, or suggestions, please contact us at [truecare@nexvya.in](mailto:sonnetspprt@gmail.com). 
 - Founder and CEO of The Veritasya [codersonet.github](https://github.com/codersonet/).
