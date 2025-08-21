@@ -1,5 +1,6 @@
 # Nexvya
 MADE AND MAINTAINED IN INDIA ❤️
+
 (Nex- next gen, vya from Sanskrit word (vyakt) to express)
 Infinite True verses, learn till you get enlightened
 
