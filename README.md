@@ -1,4 +1,6 @@
 # Nexvya
+MADE AND MAINTAINED IN INDIA ❤️
+(Nex- next gen, vya from Sanskrit word (vyakt) to express)
 Infinite True verses, learn till you get enlightened
 
 ![Nexvya Logo](https://example.com/logo.png)
@@ -18,7 +20,7 @@ Nexvya is an innovative educational platform designed to connect learners with v
 
 ## Features
 
-- **Personalized Learning**: Users can discover content based on their interests, such as Machine Learning, Web Development, etc.
+- **Personalized Learning**: Users can discover content based on their interests, such as verses, people interaction, etc.
 - **Intelligent AI Bot**: An AI assistant to provide in-depth information and answer user queries.
 - **Gamification**: Users can engage with the platform through challenges and earn rewards.
 - **User Profiles**: Customizable profiles where users can manage their interests and saved content.
@@ -123,3 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - For any questions, feedback, or suggestions, please contact us at [truecare@nexvya.in](mailto:sonnetspprt@gmail.com). 
 - Founder of The Nexvya [codersonet.github](https://github.com/codersonet/).
+
